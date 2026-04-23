@@ -93,8 +93,8 @@ xai-insurance-fraud-detection/
 - Random Forest achieved higher precision and ROC-AUC but lower recall.
 - Prioritising recall is critical in fraud detection to minimise financial losses.
 - SHAP and LIME provided consistent and meaningful explanations:
-- Identified key fraud indicators
-- Enabled transparency in predictions
+  - Identified key fraud indicators
+  - Enabled transparency in predictions
 - Combining interpretable models with XAI supports GDPR compliance and improves trust in automated systems.
 
 
@@ -106,6 +106,44 @@ xai-insurance-fraud-detection/
 | Recall | High | Lower |
 | Precision | Moderate | Higher |
 | Transparency | Strong | Requires XAI |
+
+
+## Limitations
+
+- Use of a public dataset limits real-world generalisation
+- Fraud patterns in practice are more complex and dynmaic
+- SHAP and LIME rely on approximations and may introduce uncertainty
+
+
+## Future Work
+
+- Use real-world insurance datasets
+- Explore cost-sensitive learning techniques
+- Evaluate models in real-time environments
+- Investigate hybrid models combining performance and interpretability
+
+
+## Installation
+
+```bash
+git clone https://github.com/your-username/xai-insurance-fraud-detection.git
+cd xai-insurance-fraud-detection
+pip install -r requirements.txt
+```
+
+## Thesis
+
+This repository supports a bachelor's thesis on:
+Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and Compliance in Machine Learning Models
+
+
+## License
+
+This project is for academic and research purposes.
+
+## Authur
+
+
 
 
 
