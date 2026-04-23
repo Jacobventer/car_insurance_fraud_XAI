@@ -60,31 +60,31 @@ The study focuses on:
 
 xai-insurance-fraud-detection/
 
-├── data/
-│ ├── raw/
-│ ├── processed/ 
-│
-├── notebooks/
-│ ├── 01_data_understanding_and_eda.ipynb
-│ ├── 02_data_preprocessing.ipynb
-│ ├── 03_logistic_regression_model.ipynb
-│ ├── 04_random_forest_model.ipynb
-│ ├── 05_model_comparison.ipynb
-│ ├── 06_shap_analysis.ipynb
-│ ├── 07_lime_analysis.ipynb
-│ └── 08_compliance_analysis.ipynb
-│
-├── results/
-│ ├── figures/ 
-│ ├── tables/ 
-│
-├── models/
-│ ├── logistic_model/
-│ ├── random_forest_baseline/
-│ ├── random_forest_SMOTE/
-│
-├── README.md
-├── requirements.txt
+├── data/  
+│ ├── raw/  
+│ ├── processed/   
+│  
+├── notebooks/  
+│ ├── 01_data_understanding_and_eda.ipynb  
+│ ├── 02_data_preprocessing.ipynb  
+│ ├── 03_logistic_regression_model.ipynb  
+│ ├── 04_random_forest_model.ipynb  
+│ ├── 05_model_comparison.ipynb  
+│ ├── 06_shap_analysis.ipynb  
+│ ├── 07_lime_analysis.ipynb  
+│ └── 08_compliance_analysis.ipynb  
+│  
+├── results/  
+│ ├── figures/   
+│ ├── tables/   
+│  
+├── models/  
+│ ├── logistic_model/  
+│ ├── random_forest_baseline/  
+│ ├── random_forest_SMOTE/  
+│  
+├── README.md  
+├── requirements.txt  
 
 
 ## Key Findings
@@ -140,7 +140,7 @@ Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and 
 ## Authur
 Jaco Venter
 
-BSc Data Science International University of Applied Science (Germany)
+BSc Data Science International University of Applied Science (Germany)  
 [LinkedIn Profile](https://www.linkedin.com/in/jaco-venter-45502a162/)
 
 ## License
