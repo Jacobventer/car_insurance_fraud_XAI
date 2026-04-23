@@ -58,8 +58,54 @@ The study focuses on:
 
 ## Project Structure
 
+xai-insurance-fraud-detection/
+
+├── data/
+│ ├── raw/
+│ ├── processed/ 
+│
+├── notebooks/
+│ ├── 01_data_understanding_and_eda.ipynb
+│ ├── 02_data_preprocessing.ipynb
+│ ├── 03_logistic_regression_model.ipynb
+│ ├── 04_random_forest_model.ipynb
+│ ├── 05_model_comparison.ipynb
+│ ├── 06_shap_analysis.ipynb
+│ ├── 07_lime_analysis.ipynb
+│ └── 08_compliance_analysis.ipynb
+│
+├── results/
+│ ├── figures/ 
+│ ├── tables/ 
+│
+├── models/
+│ ├── logistic_model/
+│ ├── random_forest_baseline/
+│ ├── random_forest_SMOTE/
+│
+├── README.md
+├── requirements.txt
 
 
+## Key Findings
+
+- Logistic Regression achieved the highest recall, making it the most effective model for detecting fraudulent claims.
+- Random Forest achieved higher precision and ROC-AUC but lower recall.
+- Prioritising recall is critical in fraud detection to minimise financial losses.
+- SHAP and LIME provided consistent and meaningful explanations:
+- Identified key fraud indicators
+- Enabled transparency in predictions
+- Combining interpretable models with XAI supports GDPR compliance and improves trust in automated systems.
+
+
+## Trade-offs
+
+| Aspect | Logistic Regression | Random Forest |
+|------|--------------------|--------------|
+| Interpretability | High | Low |
+| Recall | High | Lower |
+| Precision | Moderate | Higher |
+| Transparency | Strong | Requires XAI |
 
 
 
