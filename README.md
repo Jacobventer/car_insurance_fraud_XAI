@@ -137,11 +137,16 @@ This repository supports a bachelor's thesis on:
 Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and Compliance in Machine Learning Models
 
 
+## Authur
+Jaco Venter
+
+BSc Data Science International University of Applied Science (Germany)
+[LinkedIn Profile](https://www.linkedin.com/in/jaco-venter-45502a162/)
+
 ## License
 
 This project is for academic and research purposes.
 
-## Authur
 
 
 
