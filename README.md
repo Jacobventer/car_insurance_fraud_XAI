@@ -145,7 +145,7 @@ BSc Data Science International University of Applied Science (Germany)
 
 ## License
 
-This project is for academic and research purposes.
+This project is licensed under the MIT License.
 
 
 
