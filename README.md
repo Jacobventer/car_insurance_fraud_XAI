@@ -1,7 +1,7 @@
 # Explainable AI for Car Insurance Fraud Detection
 
-This repository contains the implementaion and analysis for a bachelo's thesis on applyiing Explainable Artificial Intelligence (XAI) to improve  
-transparency, interpretability, and regulatory compliance in car insuracne fraud detection.
+This repository contains the implementation and analysis for a bachelor's thesis on applying Explainable Artificial Intelligence (XAI) to improve  
+transparency, interpretability, and regulatory compliance in car insurance fraud detection.
 
 
 ## Project Overview
@@ -9,14 +9,14 @@ transparency, interpretability, and regulatory compliance in car insuracne fraud
 Insurance fraud is a major global issue, leading to significant financial losses and reduced trust between insurers and clients.
 Traditional rule-based systems struggle to detect increasingly complex fraud patterns.
 
-This project explores how mahcine learning models combined with explainability techniques can improve fraud detection systems.
-Fraud detection systems needs explainablity to comply to regulations like GDPR.
+This project explores how machine learning models combined with explainability techniques can improve fraud detection systems.
+Fraud detection systems needs Explainability to comply to regulations like GDPR.
 
 The study focuses on:
 - Detecting fraudulent car insurance claims
-- Comparing interpretable and comple models
+- Comparing interpretable and complex models
 - Applying XAI techniques to explain predictions
-- Evaluationg trade-offs between perfromance and interpretability
+- Evaluating trade-offs between performance and interpretability
 
 
 ## Research Questions
@@ -111,7 +111,7 @@ xai-insurance-fraud-detection/
 ## Limitations
 
 - Use of a public dataset limits real-world generalisation
-- Fraud patterns in practice are more complex and dynmaic
+- Fraud patterns in practice are more complex and dynamic
 - SHAP and LIME rely on approximations and may introduce uncertainty
 
 
@@ -137,7 +137,7 @@ This repository supports a bachelor's thesis on:
 Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and Compliance in Machine Learning Models
 
 
-## Authur
+## Author
 Jaco Venter
 
 BSc Data Science International University of Applied Science (Germany)  
