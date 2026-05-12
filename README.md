@@ -126,8 +126,8 @@ xai-insurance-fraud-detection/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/xai-insurance-fraud-detection.git
-cd xai-insurance-fraud-detection
+git clone https://github.com/Jacobventer/car_insurance_fraud_XAI.git
+cd car_insurance_fraud_XAI
 pip install -r requirements.txt
 ```
 
