@@ -30,9 +30,8 @@ The study focuses on:
 ## Models Used
 
 - Logistic Regression
-- Random Forest
-- Baseline model
-- SMOTE-enhanced model
+- Random Forest baseline
+- Random Forest + SMOTE
 
 
 ## Explainability Techniques
@@ -89,13 +88,13 @@ xai-insurance-fraud-detection/
 
 ## Key Findings
 
-- Logistic Regression achieved the highest recall, making it the most effective model for detecting fraudulent claims.
+- Logistic Regression achieved the highest recall, making it the most effective model in this study for identifying fraudulent claims.
 - Random Forest achieved higher precision and ROC-AUC but lower recall.
 - Prioritising recall is critical in fraud detection to minimise financial losses.
 - SHAP and LIME provided consistent and meaningful explanations:
   - Identified key fraud indicators
   - Enabled transparency in predictions
-- Combining interpretable models with XAI supports GDPR compliance and improves trust in automated systems.
+- Combining interpretable models with XAI may support transparency and accountability requirements associated with GDPR.
 
 
 ## Trade-offs
