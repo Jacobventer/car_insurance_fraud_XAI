@@ -4,10 +4,12 @@ This repository contains the implementation, experiments, and explainability ana
 
 Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and Compliance in Machine Learning Models
 
+This project focuses on improving transparency, interpretability and accountability in machine learning bassed fraud detection systems. 
+This is to comply to regulations requirements like the General Data Protection Regulation (GDPR).  
 
 ## Project Overview
 
-Insurance fraud is a major global issue, leading to significant financial losses and reduced trust between insurers and clients.
+Insurance fraud is a major global challenge, leading to significant financial losses and reduced trust between insurers and clients.
 Traditional rule-based systems struggle to detect increasingly complex fraud patterns.
 
 This project explores how machine learning models combined with explainability techniques can improve fraud detection systems.
