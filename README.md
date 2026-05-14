@@ -1,7 +1,8 @@
 # Explainable AI for Car Insurance Fraud Detection
 
-This repository contains the implementation and analysis for a bachelor's thesis on applying Explainable Artificial Intelligence (XAI) to improve  
-transparency, interpretability, and regulatory compliance in car insurance fraud detection.
+This repository contains the implementation, experiments, and explainability analysis conducted for the bachelor’s thesis:  
+
+Explainable AI for Fraud Detection in Car Insurance: Improving Transparency and Compliance in Machine Learning Models
 
 
 ## Project Overview
@@ -44,7 +45,6 @@ The study focuses on:
 - Dataset: Car insurance claims dataset (15,420 records, ~6% fraud rate)
 - Data preprocessing:
   - Label encoding
-  - Feature selection
   - Stratified train-test split
 - Imbalance handling:
   - Class weighting
@@ -66,12 +66,12 @@ xai-insurance-fraud-detection/
 ├── notebooks/  
 │ ├── 01_data_understanding_and_eda.ipynb  
 │ ├── 02_data_preprocessing.ipynb  
-│ ├── 03_logistic_regression_model.ipynb  
-│ ├── 04_random_forest_model.ipynb  
+│ ├── 03_primary_model_logistic_regression.ipynb  
+│ ├── 04_model_random_forest.ipynb  
 │ ├── 05_model_comparison.ipynb  
 │ ├── 06_shap_analysis.ipynb  
 │ ├── 07_lime_analysis.ipynb  
-│ └── 08_compliance_analysis.ipynb  
+│ └── 08_compliance_and_interpretability_analysis.ipynb  
 │  
 ├── results/  
 │ ├── figures/   
