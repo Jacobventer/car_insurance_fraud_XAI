@@ -118,10 +118,10 @@ xai-insurance-fraud-detection/
 
 ## Future Work
 
+- More advanced XAI trechniques
 - Use real-world insurance datasets
-- Explore cost-sensitive learning techniques
+- Investigate how analyst use XAI
 - Evaluate models in real-time environments
-- Investigate hybrid models combining performance and interpretability
 
 
 ## Installation
