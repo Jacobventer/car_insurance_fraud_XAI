@@ -24,7 +24,7 @@ The study focuses on:
 
 ## Research Questions
 
-1.	How do traditional machine learning models (Logistic Regression and Random Forest) perform in detecting fraud in car insurance datasets? 
+1.	How do machine learning models (Logistic Regression and Random Forest) perform in detecting fraud in car insurance datasets? 
 2.	How can explainable AI techniques (SHAP and LIME) improve the interpretability of fraud detection models? 
 3.	To what extent do explainability methods support transparency, accountability, and compliance with regulatory requirements (GDPR) in automated decision-making? 
 4.	What are the trade-offs between model performance and interpretability in the context of fraud detection?
