@@ -73,7 +73,6 @@ xai-insurance-fraud-detection/
 │ ├── 05_model_comparison.ipynb  
 │ ├── 06_shap_analysis.ipynb  
 │ ├── 07_lime_analysis.ipynb  
-│ └── 08_compliance_and_interpretability_analysis.ipynb  
 │  
 ├── results/  
 │ ├── figures/   
