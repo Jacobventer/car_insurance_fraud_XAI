@@ -110,9 +110,10 @@ xai-insurance-fraud-detection/
 
 ## Limitations
 
-- Use of a public dataset limits real-world generalisation
-- Fraud patterns in practice are more complex and dynamic
+- Use of a public dataset might not capture real-world complexity
+- 6% fraud rate vs real world 2%
 - SHAP and LIME rely on approximations and may introduce uncertainty
+- Offline experimental setting and not real-time fraud detection
 
 
 ## Future Work
